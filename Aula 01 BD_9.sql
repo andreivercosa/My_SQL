@@ -1,0 +1,6 @@
+CREATE TABLE estado
+(
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(50),
+    dtCadastro DATE
+)
